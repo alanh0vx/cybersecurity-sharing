@@ -1,9 +1,13 @@
 # Phishing Analysis Report — MacKenzie Scott "Charity Donation" Advance-Fee Scam
 
 **Report date:** 2026-05-15
+
 **Analyst:** Security review
+
 **Classification:** Advance-fee fraud (419 / charity-impersonation scam)
+
 **Verdict:** Malicious — confirmed scam
+
 
 ---
 
